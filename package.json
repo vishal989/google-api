@@ -1,0 +1,18 @@
+{
+  "name": "listed-assignnment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "email-encoder": "^1.0.4",
+    "google-auth-library": "^8.9.0",
+    "googleapis": "^120.0.0",
+    "mime": "^3.0.0",
+    "nodemailer": "^6.9.3"
+  }
+}
